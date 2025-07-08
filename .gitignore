@@ -2,7 +2,7 @@
 .vscode
 plots
 poetry.lock
-pyproject.toml
+uv.lock
 *.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
